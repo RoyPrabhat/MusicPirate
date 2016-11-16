@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Pirate</string>
+    <string name="welcome">WELCOME !!!</string>
+    <string name="version_name">Version   1.0</string>
+    <string name="welcome_message">Welcome to our awesome music app. Enjoy your music on the go with us!</string>
+    <string name="alert_dialogue_ok">ok</string>
+    <string name="all_songs">All Songs</string>
+</resources>
